@@ -1,6 +1,6 @@
 <img align="right" src="https://avatars.githubusercontent.com/u/145361263?s=200" />
 
-# Unheard Studio
+# Unheard Software
 
 Hail, noble traveler! It appears fate has led you to our humble GitHub abode. Though our name may not echo through the taverns and marketplaces, fret not. Pull up a chair by the hearth and peruse our scrolls and tomes of craftsmanship. Mayhaps you shall find something that sparks your curiosity.
 
